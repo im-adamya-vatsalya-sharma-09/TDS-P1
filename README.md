@@ -6,7 +6,6 @@ This repository contains data about GitHub users in Basel with over 10 followers
 
 1. `users.csv`: Contains information about 349 GitHub users in Basel with over 10 followers
 2. `repositories.csv`: Contains information about 11,960 public repositories from these users
-3. `gitscrap.py`: Python script used to collect this data
 
 ## Data Collection
 
