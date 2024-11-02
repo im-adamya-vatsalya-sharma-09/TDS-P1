@@ -45,6 +45,7 @@ The final processed data was compiled into two CSV files:
 
 - users.csv: Contains detailed information about users.
 - repositories.csv: Contains details about each user's public repositories.
+- gitscrap.py: This Python script extracts GitHub user data from Basel with over 10 followers using the GitHub API. It fetches user details, repositories, and saves them into CSV files. The code manages API requests with a GitHub token, filters company names, and structures data for easy analysis.
 
 ## Conclusion
 The analysis underscores the importance of user engagement and the potential positive effects of licensing on repository visibility. Through the effective use of the GitHub API, this project provides valuable insights that can guide developers in enhancing their presence and impact on the platform.
